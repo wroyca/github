@@ -1,31 +1,7 @@
 # Hello
 
-...
-
-## Features
-
-* **A** - ...
-
-* **B** - ...
-
-* **C** - ...
-
-And so much more!
-
-## Getting started
-
-...
-
-**And that's it! You're ready to go! 🚀**
-
-## Documentation
-
-...
+[![Please do not theme this app](https://stopthemingmy.app/badge.svg)](https://stopthemingmy.app) 
 
 ## License
 
-... is licensed under the GPLv3 License. See [LICENSE](LICENSE.md) for more information.
-
-## Acknowledgements
-
-...
+Hello is licensed under the GPLv3 License. See [LICENSE](LICENSE.md) for more information.
