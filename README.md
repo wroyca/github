@@ -4,4 +4,4 @@
 
 ## License
 
-Hello is licensed under the GPLv3 License. See [LICENSE](LICENSE.md) for more information.
+Hello is licensed under the GNU General Public License v3.0. See [LICENSE](LICENSE.md) for more information.
